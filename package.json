@@ -1,0 +1,12 @@
+{
+  "name": "development-environment",
+  "author": "Nino Škuflić",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  }
+}
