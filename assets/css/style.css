@@ -25,4 +25,27 @@ div {
   justify-content: center;
   align-items: center;
   height: 100vh;
+}
+
+a {
+  background-color: #0A0A0A;
+  border: 1px solid #252525;
+  color: #888888;
+  text-decoration: none;
+  margin: 20px 0 0 0;
+  font-size: 0.875rem;
+  padding: 11px 25px 11px 25px;
+  font-weight: 300;
+  border-radius: 100px;
+  transition-property: background-color;
+  transition-duration: 0.15s;
+  transition-timing-function: ease;
+}
+a:hover {
+  background-color: #252525;
+}
+
+.material-symbols-outlined {
+  vertical-align: -2px;
+  font-size: 14px;
 }/*# sourceMappingURL=style.css.map */
